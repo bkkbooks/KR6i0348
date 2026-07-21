@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0348_000-X.yaml, hash: 'sha256:052e46f092167dd3b0cd8bfcf701c89c1b18586593346fefe16ac67369c0ae6c'}
+  - {seq: 0, filename: KR6i0348_000-X.yaml, hash: 'sha256:a984e5b03cd53e2f7d56ae36b5ae4bf6b4b9e5d57ea1aa7a211e8ffedd4176f3'}
   - {seq: 1, filename: KR6i0348_001-X.yaml, hash: 'sha256:650c8002dc9aafd09cb6d4ff470cd7835cc5f73dfd94de8c34ac5544a97233a2'}
   - {seq: 2, filename: KR6i0348_002-X.yaml, hash: 'sha256:beed6e14480393a0478887562c01f0582c92db5d47f64b4241eda6ce27e59eb6'}
   - {seq: 3, filename: KR6i0348_003-X.yaml, hash: 'sha256:5a490371474bd3fb1c14eec79397fadc4027465d9c248d3631527428d56fd053'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6i0348_007-X.yaml, hash: 'sha256:293f470b9e5a0526e56c8e92daeaa4ccd3808aa9db535910832a01bdd0bbfb96'}
   - {seq: 8, filename: KR6i0348_008-X.yaml, hash: 'sha256:f37241dcfb870080b1652dc0253575da0f4b883b1fad7458af0a8e497a6a05c6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0348_000-X.markers.yaml, hash: 'sha256:f36ea91c2daf48c1ea76fa916b080d6ed6cc970bd98fb97858cd4b33d50423f7'}
+  - {seq: 0, role: markers, filename: assets/KR6i0348_000-X.markers.yaml, hash: 'sha256:986f61a7dd396f7f7ff3a0e5c0eb3cb0986a4f651cbd8e821ce9ee37f716cf9e'}
   - {seq: 1, role: markers, filename: assets/KR6i0348_001-X.markers.yaml, hash: 'sha256:13bd927c17f30a6b049ac0ad3f8dc775771c672bd467cde467dd4e438e85ca9d'}
   - {seq: 2, role: markers, filename: assets/KR6i0348_002-X.markers.yaml, hash: 'sha256:9617273ab0e37ef48a1f92e230d13ba7f4eba88909aededefea04d89645fddff'}
   - {seq: 3, role: markers, filename: assets/KR6i0348_003-X.markers.yaml, hash: 'sha256:6e10fc5230238d0f2c1fe73c4d1ef55547fe5743985c93f669f40f570905f334'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0348_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 331-A 楞伽楞嚴合轍序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0348_X_000-mulu-2
     span:
-    - front
+    - body
     - 722
     - 722
   label: No. 331-B 楞伽合轍自序
@@ -199,4 +199,4 @@ table_of_contents:
   label: 楞伽阿䟦多羅寶經合轍卷第八
   type: juan
   level: 1
-hash: sha256:5484ac7d0d8affcf3a8bd65f77cdffa95bd9fc870587b0f189afa27ebbc1c128
+hash: sha256:2f9ac2d481efdafbcb7e94926602a97a5d8ae73c0a3aae3c51d0a19e7095ec22
